@@ -1,2 +1,2 @@
-# Template
-C project template for Sysnet I
+make
+make install
